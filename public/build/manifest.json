@@ -1,0 +1,210 @@
+{
+  "_index-Dq7h7Pqt.js": {
+    "file": "assets/index-Dq7h7Pqt.js",
+    "name": "index"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-DqQksVyv.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/auth/login.css": {
+    "file": "assets/login-BZ1bYJkb.css",
+    "src": "resources/css/auth/login.css",
+    "isEntry": true
+  },
+  "resources/css/auth/sing_up.css": {
+    "file": "assets/sing_up-DjAW74UV.css",
+    "src": "resources/css/auth/sing_up.css",
+    "isEntry": true
+  },
+  "resources/css/cart/cartitems.css": {
+    "file": "assets/cartitems-Dsdgnu8P.css",
+    "src": "resources/css/cart/cartitems.css",
+    "isEntry": true
+  },
+  "resources/css/cart/check_out.css": {
+    "file": "assets/check_out-BsSj6X-F.css",
+    "src": "resources/css/cart/check_out.css",
+    "isEntry": true
+  },
+  "resources/css/cart/favouret.css": {
+    "file": "assets/favouret-ndZA9U5r.css",
+    "src": "resources/css/cart/favouret.css",
+    "isEntry": true
+  },
+  "resources/css/cart/profile.css": {
+    "file": "assets/profile-C6DR7UR9.css",
+    "src": "resources/css/cart/profile.css",
+    "isEntry": true
+  },
+  "resources/css/cart/show_in_cart.css": {
+    "file": "assets/show_in_cart-Y9qGcVCO.css",
+    "src": "resources/css/cart/show_in_cart.css",
+    "isEntry": true
+  },
+  "resources/css/cart/single_item_show.css": {
+    "file": "assets/single_item_show-DCXbVHom.css",
+    "src": "resources/css/cart/single_item_show.css",
+    "isEntry": true
+  },
+  "resources/css/cart/thanks.css": {
+    "file": "assets/thanks-sF32Gbpf.css",
+    "src": "resources/css/cart/thanks.css",
+    "isEntry": true
+  },
+  "resources/css/enduser/login_page.css": {
+    "file": "assets/login_page-Di-GdLaS.css",
+    "src": "resources/css/enduser/login_page.css",
+    "isEntry": true
+  },
+  "resources/css/enduser/singup_page.css": {
+    "file": "assets/singup_page-CUnGtmkl.css",
+    "src": "resources/css/enduser/singup_page.css",
+    "isEntry": true
+  },
+  "resources/css/pages/clients/add_client.css": {
+    "file": "assets/add_client-ClT1salA.css",
+    "src": "resources/css/pages/clients/add_client.css",
+    "isEntry": true
+  },
+  "resources/css/pages/clients/clients.css": {
+    "file": "assets/clients-DYLqxx27.css",
+    "src": "resources/css/pages/clients/clients.css",
+    "isEntry": true
+  },
+  "resources/css/pages/dashboard/dashboard.css": {
+    "file": "assets/dashboard-AlqOXN1G.css",
+    "src": "resources/css/pages/dashboard/dashboard.css",
+    "isEntry": true
+  },
+  "resources/css/pages/invoices/create.css": {
+    "file": "assets/create-CNmAjo6I.css",
+    "src": "resources/css/pages/invoices/create.css",
+    "isEntry": true
+  },
+  "resources/css/pages/invoices/detail.css": {
+    "file": "assets/detail-BfwwvJBp.css",
+    "src": "resources/css/pages/invoices/detail.css",
+    "isEntry": true
+  },
+  "resources/css/pages/invoices/list.css": {
+    "file": "assets/list-RFdNFH1J.css",
+    "src": "resources/css/pages/invoices/list.css",
+    "isEntry": true
+  },
+  "resources/css/pages/items/add_item.css": {
+    "file": "assets/add_item-CpFu-TDO.css",
+    "src": "resources/css/pages/items/add_item.css",
+    "isEntry": true
+  },
+  "resources/css/pages/items/category.css": {
+    "file": "assets/category-B9gPsUM8.css",
+    "src": "resources/css/pages/items/category.css",
+    "isEntry": true
+  },
+  "resources/css/pages/items/edit_category.css": {
+    "file": "assets/edit_category-rvMdD_Wl.css",
+    "src": "resources/css/pages/items/edit_category.css",
+    "isEntry": true
+  },
+  "resources/css/pages/items/items.css": {
+    "file": "assets/items-D6JI-m3C.css",
+    "src": "resources/css/pages/items/items.css",
+    "isEntry": true
+  },
+  "resources/css/pages/items/sub_category.css": {
+    "file": "assets/sub_category-a13ZYrZT.css",
+    "src": "resources/css/pages/items/sub_category.css",
+    "isEntry": true
+  },
+  "resources/css/pages/reports/reports.css": {
+    "file": "assets/reports-C-sCEl5T.css",
+    "src": "resources/css/pages/reports/reports.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-BYnI2D0y.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_index-Dq7h7Pqt.js"
+    ]
+  },
+  "resources/js/auth/sing_up.js": {
+    "file": "assets/sing_up-bwwzEXfH.js",
+    "name": "sing_up",
+    "src": "resources/js/auth/sing_up.js",
+    "isEntry": true
+  },
+  "resources/js/cart/check_out.js": {
+    "file": "assets/check_out-CSZ1X7e0.js",
+    "name": "check_out",
+    "src": "resources/js/cart/check_out.js",
+    "isEntry": true,
+    "imports": [
+      "_index-Dq7h7Pqt.js"
+    ]
+  },
+  "resources/js/cart/favouret.js": {
+    "file": "assets/favouret-_uPLynFR.js",
+    "name": "favouret",
+    "src": "resources/js/cart/favouret.js",
+    "isEntry": true
+  },
+  "resources/js/cart/show_in_cart.js": {
+    "file": "assets/show_in_cart-DeLDZzD-.js",
+    "name": "show_in_cart",
+    "src": "resources/js/cart/show_in_cart.js",
+    "isEntry": true,
+    "imports": [
+      "_index-Dq7h7Pqt.js"
+    ]
+  },
+  "resources/js/cart/single_remove_favouret.js": {
+    "file": "assets/single_remove_favouret-kYNeOt9K.js",
+    "name": "single_remove_favouret",
+    "src": "resources/js/cart/single_remove_favouret.js",
+    "isEntry": true,
+    "imports": [
+      "_index-Dq7h7Pqt.js"
+    ]
+  },
+  "resources/js/dashboard.js": {
+    "file": "assets/dashboard-Dgw8-H26.js",
+    "name": "dashboard",
+    "src": "resources/js/dashboard.js",
+    "isEntry": true
+  },
+  "resources/js/items/add_category.js": {
+    "file": "assets/add_category-C9qKjIGC.js",
+    "name": "add_category",
+    "src": "resources/js/items/add_category.js",
+    "isEntry": true,
+    "imports": [
+      "_index-Dq7h7Pqt.js"
+    ]
+  },
+  "resources/js/items/add_item.js": {
+    "file": "assets/add_item-B9qosfXt.js",
+    "name": "add_item",
+    "src": "resources/js/items/add_item.js",
+    "isEntry": true
+  },
+  "resources/js/items/edit_item.js": {
+    "file": "assets/edit_item-DvZmm8F_.js",
+    "name": "edit_item",
+    "src": "resources/js/items/edit_item.js",
+    "isEntry": true
+  },
+  "resources/js/items/sub_category.js": {
+    "file": "assets/sub_category-CXyxl7ds.js",
+    "name": "sub_category",
+    "src": "resources/js/items/sub_category.js",
+    "isEntry": true,
+    "imports": [
+      "_index-Dq7h7Pqt.js"
+    ]
+  }
+}
